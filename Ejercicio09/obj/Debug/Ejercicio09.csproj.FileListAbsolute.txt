@@ -1,0 +1,6 @@
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicio09\bin\Debug\Ejercicio09.exe.config
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicio09\obj\Debug\Ejercicio09.csprojResolveAssemblyReference.cache
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicio09\bin\Debug\Ejercicio09.exe
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicio09\bin\Debug\Ejercicio09.pdb
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicio09\obj\Debug\Ejercicio09.exe
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicio09\obj\Debug\Ejercicio09.pdb
