@@ -1,0 +1,5 @@
+D:\Trabajos alumno\Sanchez Juan\Github\Clase03\bin\Debug\Clase03.exe.config
+D:\Trabajos alumno\Sanchez Juan\Github\Clase03\bin\Debug\Clase03.exe
+D:\Trabajos alumno\Sanchez Juan\Github\Clase03\bin\Debug\Clase03.pdb
+D:\Trabajos alumno\Sanchez Juan\Github\Clase03\obj\Debug\Clase03.exe
+D:\Trabajos alumno\Sanchez Juan\Github\Clase03\obj\Debug\Clase03.pdb
