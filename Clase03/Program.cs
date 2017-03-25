@@ -29,7 +29,7 @@ namespace Clase03
             Sello.ImprimirEnColor();
 
             Sello.color = ConsoleColor.Red ;
-            Sello.mensaje = "En otro color!";
+            Sello.mensaje = "Vuelvo al mismo color!";
             Sello.ImprimirEnColor();
             Console.WriteLine(Sello.Imprimir());
 
